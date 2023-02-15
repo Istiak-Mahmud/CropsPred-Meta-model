@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=R1-1
+Added Component: Designator=J(CONN_1-1337543-0)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-1337543-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-1337543-0/TE%20Connectivity%20AMP%20Connectors/view-part/490820/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1-1337543-0.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J-2
+Added Pin To Net: NetName=GND Pin=J-P1
+Added Pin To Net: NetName=GND Pin=J-P2
+Added Pin To Net: NetName=Contact Pin=J-1
+Added Pin To Net: NetName=Contact Pin=R1-1
+Added Net: Name=Contact
+Added Member To Class: ClassName=pH Member=Component C3 4.7uF
+Added Member To Class: ClassName=pH Member=Component J 1-1337543-0

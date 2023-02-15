@@ -1,0 +1,12 @@
+Flask==2.0.1
+gunicorn==20.0.4
+pandas==0.25.2
+scikit-learn==1.0
+numpy==1.18.5
+pickle4==0.0.1
+click>=7.1.2
+Frozen-Flask==0.15
+itsdangerous>=2.0
+Jinja2>=3.0
+MarkupSafe>=2.0
+Werkzeug>=2.0
