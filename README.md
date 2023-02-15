@@ -8,7 +8,8 @@ Agriculture is one of the world’s largest and most significant sectors, theref
 
 # Model Architecture
 
-![image](https://github.com/Istiak-Mahmud/CropsPred/blob/main/CropPred_Meta/Model_Arcitecture.jpg)
+![image](https://github.com/Istiak-Mahmud/CropsPred-Meta-model/blob/main/Codes/Model_Arcitecture.jpg)
+
 
 # Keywords:
 
